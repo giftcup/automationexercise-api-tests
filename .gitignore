@@ -1,0 +1,14 @@
+vendor
+tests/_output/
+codecept
+codecept.phar
+composer.lock
+tests/.env
+*.tmp
+*.bak
+*.cache
+.idea/
+.vscode/
+tests/_output/report/
+tests/_output/coverage/
+tests/_output/junit/
